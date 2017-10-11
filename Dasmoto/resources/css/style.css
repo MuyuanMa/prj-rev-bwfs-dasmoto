@@ -1,0 +1,41 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  align-content: center;
+  background-image: url("./pattern.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  align-content: left;
+}
+
+
+strong {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+
+#hacksaw {
+  background-color: mediumspringgreen;
+}
+
+
+#frames {
+  background-color: lightcoral;
+}
+
+
+#finnish {
+  background-color: skyblue;
+}
